@@ -219,4 +219,4 @@ jekyll serve --port 3000
 port: 1234
 ```
 
-此时，启动jekyll服务后，访问 http://localhost:1234/ 即可
+此时，启动jekyll serve后，访问 http://localhost:1234/ 即可

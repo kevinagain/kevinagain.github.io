@@ -69,6 +69,10 @@ icon: bookmark
 
 ## 软件开发
 
+### 综合教程
+
+- [易百](http://www.yiibai.com/)
+
 ### Python
 
 - [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
@@ -117,8 +121,20 @@ icon: bookmark
 
 - [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed)
 
+## Office插件
 
+### OneNote
 
+- [Onetastic for OneNote](https://getonetastic.com/) `可以插入日程表，有各种方便的宏，图标编辑，定制样式等`
+
+- [NoteHighlight](http://notehighlight.codeplex.com/) `OneNote程序代码高亮插件`
+
+- [数字笔记珍宝](http://cn.onenotegem.com/gem-for-onenote.html) `OneNote 2016, 2013, 2010 插件工具集，现包含 6 个选项卡 360 多个功能`
+
+### PPT
+
+- [Nordri](http://www.nordritools.com/)
+- OneKey Tools
 
 ## Games
 

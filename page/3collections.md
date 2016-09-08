@@ -37,6 +37,8 @@ icon: bookmark
 
 ### 在线工具
 
+- [草料](http://cli.im/) `二维码`
+
 - [在线工具](http://tool.oschina.net/) // [aTool](http://www.atool.org/)
 
 - [文档格式转换](http://www.docspal.com/)
@@ -67,6 +69,10 @@ icon: bookmark
 
 - [HK4WIN](http://www.songruihua.com/hk4win/) 
 
+### 音视频图片处理
+
+- [小丸工具箱](http://maruko.appinn.me/)
+
 ## 软件开发
 
 ### 综合教程
@@ -78,6 +84,8 @@ icon: bookmark
 - [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 - [Python部落](http://python.freelycode.com/)
+
+- [Python 库/模块](https://github.com/kevinagain/opensource/blob/master/libs/python.wiki) `面向程序员的开源代码库清单（含示例代码）`
 
 ### JekyllThemes
 

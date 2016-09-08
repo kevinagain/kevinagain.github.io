@@ -3,7 +3,7 @@ layout: post
 title:  "常用软件工具"
 date:   2016/9/6 星期二 14:46:26 
 categories: 工具
-tags: 软件 工具 Windows PC Protable
+tags: 软件 工具 Windows PC Portable
 author: Kevin Lee
 ---
 

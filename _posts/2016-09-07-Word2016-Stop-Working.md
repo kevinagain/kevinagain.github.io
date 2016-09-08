@@ -20,7 +20,7 @@ author: Kevin Lee
 1. 搜索“Normal.dot”；
 2. 找到路径 `%USERPROFILE%\AppData\Roaming\Microsoft\Templates` 下的“Normal.dot”文件，然后将其删除即可。
 
-##方法二
+## 方法二
 
 1. 打开注册表（regedit）
 2. 找到如下路径：
